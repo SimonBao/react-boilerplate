@@ -31,18 +31,18 @@ This will create a new folder called dist with index.html setup for react and th
 
 ## Dependencies
 
-- react
-- react-dom
+- react 16.3.2
+- react-dom 16.3.2
 
 ## Developer Dependencies
 
-- webpack
-- webpack-cli
-- webpack-dev-server
-- babel-core
-- babel-loader
-- babel-preset-env
-- babel-preset-react
-- html-webpack-plugin
+- webpack 4.6.0
+- webpack-cli 2.0.15
+- webpack-dev-server 3.1.3
+- babel-core 6.26.0
+- babel-loader 7.1.4
+- babel-preset-env 1.6.1
+- babel-preset-react 6.24.1
+- html-webpack-plugin 3.2.0
 
 
