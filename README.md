@@ -4,3 +4,7 @@
 
 React boilerplate which is created without the use of create-react-app.
 
+## Dependencies
+
+- react
+- react-dom
