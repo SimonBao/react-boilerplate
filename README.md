@@ -18,7 +18,9 @@ To run application in development mode with hot reloading.
 npm run start
 ```
 It will launch application in development mode in browser and detect any changes made and reloads automatically.
-------
+
+---
+
 To build application for production.
 
 ```
